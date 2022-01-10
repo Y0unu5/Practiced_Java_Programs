@@ -5,7 +5,7 @@ import java.util.Scanner;
 public class SwitchCase2 {
 
 	public static void main(String[] args) {
-		/*String domain;
+		String domain;
 		Scanner sc = new Scanner(System.in);
 		System.out.println("Enter the domain");
 		domain = sc.nextLine();
@@ -25,7 +25,7 @@ public class SwitchCase2 {
 			break;
 		default:
 			System.out.println("Invalid");
-		}*/
+		}
 		// Menu driven Arithmetic Program
 		Scanner scan = new Scanner(System.in);
 		System.out.println("MENU");
